@@ -1,0 +1,23 @@
+{
+  "textHome": "الرئيسية",
+  "textProfile": "الملف الشخصي",
+  "textAccount": "الحساب",
+  "textFavorite": "المفضله",
+  "textProducts": "المنتجات",
+  "textCart": "عربه التسوق",
+  "textUpdate": "تحديث الملف",
+  "textChange": "تغير الباسور",
+  "textLogOut": "تسجيل الخرود",
+  "textCheckOut": "عمليه الدفع",
+  "textTotal": "المجموع",
+  "textVegetables": "الخضروات",
+  "textMeat": "اللحمه",
+  "textOther": "اخري" ,
+  "textSetting": "الاعدادات",
+  "textSure": "هل انت متأكد؟",
+  "textYes": "نعم",
+  "textNo": "لا",
+  "textAddCart": "اضف الي العربه",
+  "textEmptyFav": "ليس لديك أي عنصر مفضل",
+  "textEmptyCart": "ليس لديك أي عنصر عربة التسوق"
+}

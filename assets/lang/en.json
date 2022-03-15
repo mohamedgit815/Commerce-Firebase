@@ -1,0 +1,23 @@
+{
+  "textHome": "Main",
+  "textProfile": "Profile",
+  "textAccount": "Account",
+  "textCart": "Cart",
+  "textFavorite": "Favorite",
+  "textProducts": "Products",
+  "textUpdate": "Update Profile",
+  "textChange": "Change Password",
+  "textLogOut": "LogOut",
+  "textCheckOut": "CheckOut",
+  "textTotal": "Total",
+  "textVegetables": "Vegetables",
+  "textMeat": "Meat",
+  "textOther": "Other" ,
+  "textSetting": "Setting",
+  "textAddCart": "AddToCart",
+  "textYes": "Yes",
+  "textNo": "No",
+  "textSure": "Are your sure?",
+  "textEmptyFav": "You don\\'t have any Favorite Item",
+  "textEmptyCart": "You don\\'t have any Cart Item"
+}
